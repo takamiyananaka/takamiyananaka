@@ -9,6 +9,30 @@
 
 💭 コンピュータ業界 | galgameと音ゲーが好き
 
+<details open>
+<summary>🎀 <b>关于我</b></summary>
+<br>
+
+🎵 &nbsp; **Rhythm Game**
+
+🎹 Arcaea 双星（已淡坑）
+
+🎧 舞萌 DX w5 · 小众歌 & 大歌爱好者
+
+<br>
+
+🎮 &nbsp; **Galgame**
+
+💿 時停社 单推 & 全攻略
+
+📚 涉猎广泛 口味不挑
+
+🚫 R18G / 恐怖 ×
+
+📖 最近在推：机翻 / AI 汉化冷门作
+
+</details>
+
 <br>
 
 ✿ ════════ ✿ ════════ ✿
@@ -29,6 +53,7 @@
 <a href="https://steamcommunity.com/profiles/76561199058415443/"><img src="https://img.shields.io/badge/Steam-FF8FAB?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 <a href="https://github.com/takamiyananaka"><img src="https://img.shields.io/badge/GitHub-FF9AA2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:takamiyananaka@outlook.com"><img src="https://img.shields.io/badge/Email-FF9AA2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="tencent://message/?uin=1377918740"><img src="https://img.shields.io/badge/QQ-FFB7C5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ"></a>
 
 <br>
 
@@ -39,9 +64,7 @@
 <table>
   <tr>
     <td align="center">
-████████████░░░░░ 10%
-
-📀 **現在プレイ中**
+📀 現在プレイ中
 
 **「ディメンション トツ ラヴァーズ!!」**
 
