@@ -19,6 +19,12 @@
 
 🎧 舞萌 DX w5 · 小众歌 & 大歌爱好者
 
+🎸 BanG Dream!
+
+🌟 Project SEKAI (PJSK)
+
+🐱 Muse Dash (喵斯)
+
 <br>
 
 🎮 &nbsp; **Galgame**
@@ -39,6 +45,7 @@
 
 ### 💻 Tech Stack
 
+<img src="https://img.shields.io/badge/TypeScript-FF8FAB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Java-FFB7C5?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Python-FF9AA2?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
@@ -47,8 +54,6 @@
 ✿ ════════ ✿ ════════ ✿
 
 ### 🔗 Find me on
-
-<!-- 把 href="#" 替换成你的链接 -->
 <a href="https://space.bilibili.com/34071847"><img src="https://img.shields.io/badge/Bilibili-FFB7C5?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
 <a href="https://steamcommunity.com/profiles/76561199058415443/"><img src="https://img.shields.io/badge/Steam-FF8FAB?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 <a href="https://github.com/takamiyananaka"><img src="https://img.shields.io/badge/GitHub-FF9AA2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -65,11 +70,11 @@
     <td align="center">
 📀 現在プレイ中
 
-**「ディメンション トツ ラヴァーズ!!」**
+**「時計仕掛けのレイライン」**
 
-ルート：共通線
+ルート：共通线
 
-💬 品鉴小甜水
+💬 探索黄昏学园的不可思议
   </td>
   </tr>
 </table>
